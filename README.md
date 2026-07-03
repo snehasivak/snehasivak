@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about **Docker, Svelte and Symfony**
+- 💬 Ask me about **Docker, Laravel and Symfony**
 
 
 
